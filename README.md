@@ -16,7 +16,9 @@ I am personally interested in building and maintaining good habits. I took readi
 
 ## File Descriptions
 
-The ipynb notebook includes all code of exploratory data analysis. The reading-habit-dataset/ directory is where dataset should be stored as csv.
+The ipynb notebook includes all code to reproduce exploratory data analysis. (**In case GitHub preview does not show some tables correctly, please download to check the correct content.**)
+
+The reading-habit-dataset/ directory is where dataset should be stored as csv.
 
 ## Results
 
